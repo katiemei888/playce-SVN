@@ -1,0 +1,6 @@
+The system shall display the user's past ten viewed searches.
+The system shall display the wait time for an activity recommendation.
+The system shall filter recommendations using keywords.
+
+
+
