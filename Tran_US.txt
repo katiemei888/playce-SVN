@@ -1,0 +1,3 @@
+As a planner, I want this ap to be able to make recommendations for future events., so I can bette rprepare myself for the future.
+As an indecisive person, I want this app to help me make quicker plans, so I can spend less time making plans.
+As an individual with a short attention span, I want the UI of this app to display recommendations one at a time, so I not overwhelmed by options.
