@@ -1,0 +1,5 @@
+1. As a hiker, I would like to be given the highest rated family hike from some review aggregator, so that everyone is satisfied with the difficulty and excitement of the hike.
+2. As a user, I would like to be presented with three choices, so that my experience is less complicated.
+3. As a restaurant goer, I would like to be able to see which restaurant will serve me quickest on average , so that I can have my food as soon as possible.
+
+
